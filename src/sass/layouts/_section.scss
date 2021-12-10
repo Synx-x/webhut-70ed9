@@ -58,6 +58,14 @@
 	}
 }
 
+.hero__body{
+        height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+}
+
 // Features section
 .feature__subtitle {
 	font-size: 1.33333em;
